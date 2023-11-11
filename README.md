@@ -67,4 +67,9 @@ In this section you will describe to users how to use the project, or how to con
 [Link to Creditor](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file)
 
 ## Badges
-[!HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<div>  
+<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='html' />
+<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='css' />
+<img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='javascript' />
+</div>
+[More Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
